@@ -1,0 +1,294 @@
+8
+
+dir
+101
+https://designlab.eng.rpi.edu/svn2/dl-robot-assist/working/CAD/Current%20Parts/Capstone
+https://designlab.eng.rpi.edu/svn2/dl-robot-assist
+
+
+
+2019-03-26T22:52:15.266132Z
+84
+luthel2
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6d4a1291-c8e4-4e19-987a-d961a3a52bd9
+
+midplate drawing.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+e2ddc32d63269b948762846d00836979
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+95072A116_PRECISION ACME ROUND NUT WITH EXTERNAL THRDS_step.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+f99a452d8ce3e68c06ac788921030294
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+cap drawing.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+669042229c87b5d8125cb3fc77d15c41
+2019-03-26T20:22:21.630471Z
+78
+oversc
+has-props
+
+ACME_Drawing.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+840963fd4b002db5cf5d509563322c42
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+New folder
+dir
+
+Base Plate_dwg1.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+7db150854f1bd5a798d89a34398c4760
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+95082A644_MOUNTING FLANGE FOR PRECISION ACME ROUND NUT_step.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+37a289a1640e0e3e92a009c06ac25d1f
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+CAD Models
+dir
+
+chasismidplatesupport.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+3c3bc5d24968faa3a1af964efc3fc224
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+60715K130_ONE-PIECE STEEL THRUST BALL BEARING_step.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+f0c6b82e7fb59e436e78c669e30f1aef
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+midplate.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+554ca715dbf7cd9cee8b2c5e238846e4
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+assembly1.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+31069fb3146a15948bdd053d7fd43370
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+Base Plate.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+d9e3b0ee5cace50690c9c648d154cb40
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+mount.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+4e9188c408dbeee919851273a835bef4
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+CAP.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+5f89f35b3e2250eefa6f9a9a1d88d06d
+2019-03-26T20:22:35.521161Z
+79
+oversc
+has-props
+
+2848N400_FLANGE-MOUNT BEARING HOUSING_step.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+9ab79e1f8120ee1f8bfae6b159c61687
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+6673K350_HT-SPEED LINEAR SLEEVE BRNG_step.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+f50859dea12c1c50749d218ff3f229e0
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+wheel.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+8df0ca8a4c002e0d0babaa51a414381a
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+ACME.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+53fc46a6f4790cdef6faa9fd13910384
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+battery.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+6570670d6218843fd267893cd2a5b85e
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+chasis.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+b9a51d92175cd076877f7e3a0d7a7abf
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+riser plate.prt
+file
+
+
+
+
+2019-04-03T15:22:22.000000Z
+42aa54843a38f81844582ef0693a04ea
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+

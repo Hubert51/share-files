@@ -1,0 +1,835 @@
+8
+
+dir
+101
+https://designlab.eng.rpi.edu/svn2/dl-robot-assist/working/CAD/Current%20Parts/Capstone/CAD%20Models
+https://designlab.eng.rpi.edu/svn2/dl-robot-assist
+
+
+
+2019-03-26T22:50:24.414996Z
+80
+luthel2
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6d4a1291-c8e4-4e19-987a-d961a3a52bd9
+
+AP 0058 0005 - Robot Hand - 58 mm - 3 fingers_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+2c92baecab225a32a4d715ab648a1a17
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MT 6262 0003 - Wrist carbon fiber shell - 61,5 - 61.5 mm_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+6af678e20d7d6762ebbd58bd4bfa8c20
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MI 0000 0004 - 1.0.0.0005_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+5c0e9b04485cd6eee820634523eecc84
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+PJ 0090 0004 - JACO² 6DOF_KG-3_step.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+01bf0686e0d62b44a2d1c8dc1a58eb05
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AM 7536 0003 - Motor Side Frame_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+1878dde3cfb60c3c3d325f90d96f1b17
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MR 7580 0001 - 5.9.1.0000 - Rel_0003_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+860f3c31f48262667b909b6468a650f5
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MI 0000 0002 - 1.0.0.0005_simple_molded_version.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+9d5ebd1a2fee11b8c667236b97ec8c23
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AM 7575 0002 - 5.9.1.0001 - Rel_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+c0cdef161c2c44210f69e197139ddbe2
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AM 5864 0001 - Plastic Protection Ring Assembly - 58mm - 64mm_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+e6ac6a37627c4c0431a12fe59aa434d3
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AM 0058 0005 - Hand shell assembly_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+1c9243423e3f710fb83ac350285ba085
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+pin_align1_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+e406f569fb5062d548026375ba229108
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AM 7536 0003 - Gearing Side Frame_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+1d12628aa703606a8fdcc552e2aa0851
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+PJ 0090 0004 - JACO² 6DOF_KG-3.log
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+74fd985440cc760931b668cc67a93fca
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+
+MT 8062 0001 - 5.9.1.0001 - Rel_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+a7bbb628da240cfe3a8b269e4a8c7b27
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AM 3240 0004 - Plastic Finger Assembly Mico - 32mm - 2 Phalanges_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+050f7f7d347ee2c0ad312f18fef338d8
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AM 4075 0004 1.0.1 0006 - Base frame assembly_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+10823ad9435baea7613ccd38ec88dbbe
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MF 7549 0001 rev B - Aluminum insert_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+5d5df4ba1acffbe70f8d7159dd7637dc
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AM 5812 0001 - Motor Side Frame_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+9df5790c6d810726e9da4ad03ed81a77
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MH 0205 0003 - M2x5 washer, stainless, black oxyde, 0.3 thick_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+59c5d20e23b0776a6f34cc3edc50e701
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MI 7584 0001_REV1.1_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+3abe13607e76553278f77a9fd5d3880a
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+For volume extraction - MT 0062 0003 rev C - Hand carbon fiber shell with palm - 61.5 mm - 3 fingers_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+f3609b214966c34df37dd58c247bcb85
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MR 5862 0001 - 5.9.1.0001 - Rel_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+59c9e8d2a62e3e566e47343ef69b7cd2
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AM 7575 0001 - 5.9.1.0001 - Rel_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+c2c8f67a1607261bd4bb7cf0db2c8899
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AM 7584 0001 - Plastic Protection Ring Assembly - 75mm - 84 mm_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+6dab01b108bb6696fd9c7317fc5696ba
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+CAP.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+4ae08401e6e5fdcfa1093690744ae642
+2019-03-25T23:14:18.676722Z
+75
+luthel2
+has-props
+
+Support Rods.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+3285b5f694d9c1ad782dca2ca5151656
+2019-03-25T23:08:11.609955Z
+73
+luthel2
+has-props
+
+AM 5812 0001 Simplified Model.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+b7d6cb860c8a5756a8f3da852e35bb7b
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+ACME SCREW
+dir
+
+CS 0000 0003 - SWITCH ROCKER SPST 16A 125V_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+b70f1d2abab9487cb360276129242e99
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MI 0000 0001 - 1.0.0.0011_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+6d86ce889630b35a161657b71a8d918d
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+Gearing Side Frame_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+a9f9716e10bd2a242a206ca748dd7c14
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AM 7536 0003 simplified model.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+c94851f28e188e7dde06a5ceb2909928
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+DummyActuator_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+a3b035b2bce153d7f56af497181ebf6f
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AM 5858 0003 1.0.1 0001 - Wrist Link Assembly carbon - 55 deg - 58 mm - 58 mm_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+3bb1fd941d49bbc63884f770de0fd063
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MI 1502 0001 - 1.0.0.0002_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+74f490cf0519e8d121b7575e1c8f0e0f
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+Support Rods_dwg1.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+b34d87a0ac6be5656aa4198485193b27
+2019-03-26T22:50:24.414996Z
+80
+luthel2
+has-props
+
+MO 0000 0012 rev B - Rubber palm - 3 fingers hand_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+375a79b16632730905379603f50baae4
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+PJ 0090 0004 - JACO² 6DOF_KG-3.STEP
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+47d5ccf482fde54360865c7cae5bfb6d
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+
+Rear Adapter Cap_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+e8afe1ad4bda3edd98ff6356ac242e8d
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MI 8660 0001 rev A - Plastic cover for base_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+422f929b15a9af203660286633febed1
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MT 8080 0001 - 5.9.1.0001 - Rel_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+dd810659754911ec9c3226661976b6a7
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+Cap for actuator rear adapter small_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+735c76d8e93f00dfebec4175b552b5b3
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AM 3540 0001 - Linear Actuator - 35mm - 40N - Dummy simple.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+0b31a47340afb1542b6e1dfc9d5abd15
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+pin_align_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+b54a71253f96e4cca4d278927c23fdb4
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AM 7516 0002 simplified model.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+74fef309e7a7499a279b7cfbe3c2d7ca
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MT8080 0008 rev A - Base carbon fiber shell_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+410b2581dc9392a5c1344fc4b0333e91
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MH 0304 0001 - M3x4 dowell pin_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+f27d39aa567d4438815625f99d6e7e7d
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+Dowell pin - M3x3_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+ff307e9b96c9be318151b50e6ff8a4e1
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+Electronics Cap_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+4f787b7e3193dedf5b3aabc52bc65d88
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MI 5864 0001_REV1.1_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+135ad50b9f1330812aef6e7745a2dbe8
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MT 8080 0002 - 5.9.1.0001 - Rel_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+1c25535dd4541ec13719d49c21b80748
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MR 7580 0001 - 5.9.1.0000 - Rel_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+d4e1a4ec6421334517120835e1ee60e7
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MR 5862 0001 - 5.9.2.0001 - Rel_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+abd3a0dae56dd8ddb107d19f469271db
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AM 7558 0001 - 5.9.1.0001 - Rel_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+ad13b19c3e83248af89bf45fcb92467f
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+chasismidplatesupport.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+2afcd16e03f1377601d9ec30c2ace664
+2019-03-25T23:10:35.518666Z
+74
+luthel2
+has-props
+
+AM 5812 0001 - Gearing Side Frame_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+f2fb34b17c5f861c1b75d2063f037021
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MF3915 0001 - Mico finger actuator plastic cup for junction with hand_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+881ec149ad9751cb50726f7d3b8ea784
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+pin_align2_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+ce5b9e7573b34cc10d9b2311d47270e4
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+M3x2.5 pin_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+0468c7ae51c387dda141c766d37a583b
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+Motor Side Frame_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:20.000000Z
+611c3f79bf0c5dda6dab2646c16b02b1
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MH 0204 0004 - Lamix M2x4 stainless steel screw, head 0.3 thick,  black colored_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+04ba446539257c31a60faa8a9872b3c6
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+AP 4075 0003 1.0.1  - Robot Base carbon - 40mm X 40mm - 74.5mm_simple.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+31bc45fbf5ff7c8391047872f5cc0561
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+MH 0303 0001 - M3x2.5 pin_simple_D‚faut.prt
+file
+
+
+
+
+2019-04-03T15:22:19.000000Z
+749b901d9bffb4b3194a09918b34ddcc
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+

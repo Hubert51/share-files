@@ -1,0 +1,93 @@
+8
+
+dir
+101
+https://designlab.eng.rpi.edu/svn2/dl-robot-assist/working/CAD/Current%20Parts/Capstone/CAD%20Models/ACME%20SCREW
+https://designlab.eng.rpi.edu/svn2/dl-robot-assist
+
+
+
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6d4a1291-c8e4-4e19-987a-d961a3a52bd9
+
+Main Axle.prt
+file
+
+
+
+
+2019-04-03T15:22:13.000000Z
+c1e3a08480d3f3cb23b299eb8abcb317
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+Motor.prt
+file
+
+
+
+
+2019-04-03T15:22:13.000000Z
+0e25de5e2b8040f45772d00543940e84
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+Main Support.prt
+file
+
+
+
+
+2019-04-03T15:22:13.000000Z
+75a15384337c0e224d821af6eab61a30
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+ACME SCREW ASSEMBLY.prt
+file
+
+
+
+
+2019-04-03T15:22:13.000000Z
+898a0cc7ed5e6aa6140cbeb7462715b1
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
+Base.prt
+file
+
+
+
+
+2019-04-03T15:22:13.000000Z
+28594fe94f380e481b9e25d2ecfc33a0
+2019-03-25T22:51:10.928907Z
+72
+luthel2
+has-props
+
